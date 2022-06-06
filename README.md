@@ -1,2 +1,2 @@
-# desafios-dio-santander-mobile
-Repositório dos Desafios da DIO - Santander Mobile
+# Desafios DIO - Santander Mobile
+Repositório criado para os Desafios da DIO - Santander Mobile
